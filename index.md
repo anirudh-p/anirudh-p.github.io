@@ -3,17 +3,18 @@ layout: default
 title: Home
 ---
 
-# Your Name
+# Anirudh Pisharam
 
-PhD Student in Economics, [University Name]
+PhD Student in Economics, Boston College
 
-I study [your fields/interests in 1–2 lines].
+I am interested in Industrial Organization and applied microeconomics, with a focus on environmental and energy economics.
 
-My research currently focuses on:
-- Topic 1
-- Topic 2
-- Topic 3
+My current research focuses on Electric School Buses as a setting to study industrial policy, technology adoption, and the transition to cleaner transportation. In particular, I examine how state and federal policies affect firms, school districts, and local communities through three related projects:
 
-Email: your_email@university.edu
+- industrial policy and dynamic competition in a market with learning-by-doing
+- peer effects and local spillovers in technology adoption
+- environmental and health implications of cleaner air
+
+Email: pisharam@bc.edu
 
 [CV](./cv) | [Research](./research) | [Teaching](./teaching)
