@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<nav aria-label="Primary navigation">
+  <a href="{{ '/' | relative_url }}">Home</a> ?
+  <a href="{{ '/research' | relative_url }}">Research</a> ?
+  <a href="{{ '/teaching' | relative_url }}">Teaching</a> ?
+  <a href="{{ '/cv' | relative_url }}">CV</a>
+</nav>
 # Anirudh Pisharam
 
 PhD Student in Economics, Boston College
@@ -16,5 +22,3 @@ My current research focuses on Electric School Buses as a setting to study indus
 - environmental and health implications of cleaner air
 
 Email: pisharam@bc.edu
-
-[CV](./cv) | [Research](./research) | [Teaching](./teaching)
