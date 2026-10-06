@@ -4,11 +4,12 @@ title: Research
 ---
 
 <nav aria-label="Primary navigation">
-  <a href="{{ '/' | relative_url }}">Home</a> ?
-  <a href="{{ '/research' | relative_url }}">Research</a> ?
-  <a href="{{ '/teaching' | relative_url }}">Teaching</a> ?
+  <a href="{{ '/' | relative_url }}">Home</a> &middot;
+  <a href="{{ '/research' | relative_url }}">Research</a> &middot;
+  <a href="{{ '/teaching' | relative_url }}">Teaching</a> &middot;
   <a href="{{ '/cv' | relative_url }}">CV</a>
 </nav>
+
 # Research
 
 My research lies in Industrial Organization and applied microeconomics, with a focus on environmental and energy economics. Much of my current work studies Electric School Buses as a setting to examine industrial policy, firm dynamics, technology adoption, and local spillovers.
