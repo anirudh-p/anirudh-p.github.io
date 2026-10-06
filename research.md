@@ -12,17 +12,15 @@ title: Research
 
 # Research
 
-My research lies in Industrial Organization and applied microeconomics, with a focus on environmental and energy economics. Much of my current work studies Electric School Buses as a setting to examine industrial policy, firm dynamics, technology adoption, and local spillovers.
+My research lies at the intersection of industrial organization, environmental and energy economics, and applied microeconomics. I study how public policy interacts with firm incentives and the adoption of clean technologies.
 
-## Current Projects
-
-### Work in Progress
+## Work in Progress
 
 **Industrial Policy, Learning-by-Doing, and Dynamic Competition in the Electric School Bus Market**  
-This project studies how state and federal subsidies shape pricing, competition, and adoption in the Electric School Bus market when firms are forward-looking and costs evolve through learning-by-doing.
+This project studies how subsidies for electric school buses interact with firm-specific learning-by-doing and dynamic competition. It develops a dynamic oligopoly model to distinguish technological cost reductions from firms' strategic incentives to build experience, and uses the model to evaluate effects on adoption, market structure, and welfare.
 
 **Local Spillovers in Electric School Bus Adoption**  
-This project studies whether adoption of Electric School Buses in nearby districts influences subsequent local adoption patterns, with a focus on spatial spillovers, policy exposure, and technology diffusion.
+This project examines whether adoption by nearby school districts affects subsequent adoption decisions. It studies the geographic diffusion of electric school buses, with particular attention to separating local spillovers from shared exposure to policy and market conditions.
 
 **Environmental and Health Benefits of Electric School Bus Adoption**  
-This project studies the environmental and health benefits of Electric School Bus adoption, with particular attention to improvements in local air quality and potential downstream effects on communities.
+This project studies the environmental and health consequences of replacing conventional school buses with electric alternatives. It focuses on how changes in local air pollution may affect students and surrounding communities.

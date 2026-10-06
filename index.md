@@ -12,14 +12,10 @@ title: Home
 
 # Anirudh Pisharam
 
-PhD Student in Economics, Boston College
+PhD Candidate in Economics at Boston College
 
-I am interested in Industrial Organization and applied microeconomics, with a focus on environmental and energy economics.
+I study how industrial and environmental policy shape firm behavior, technology adoption, and welfare in clean-technology markets.
 
-My current research focuses on Electric School Buses as a setting to study industrial policy, technology adoption, and the transition to cleaner transportation. In particular, I examine how state and federal policies affect firms, school districts, and local communities through three related projects:
+My current research uses the transition to electric school buses to examine dynamic competition with learning-by-doing, local spillovers in technology adoption, and environmental and health benefits.
 
-- industrial policy and dynamic competition in a market with learning-by-doing
-- peer effects and local spillovers in technology adoption
-- environmental and health implications of cleaner air
-
-Email: pisharam@bc.edu
+[Email me](mailto:pisharam@bc.edu)

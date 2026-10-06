@@ -12,10 +12,20 @@ title: Teaching
 
 # Teaching
 
+My teaching at Boston College includes serving as an instructor for Game Theory and as a teaching assistant for courses in introductory economics, econometrics, and statistics.
+
 ## Instructor
-- **Game Theory**, Boston College &mdash; Summer 2025, Summer 2026, Fall 2026
+
+**Game Theory**, Boston College  
+Summer 2025, Summer 2026, and Fall 2026
 
 ## Teaching Assistant
-- **Principles of Economics**, Boston College &mdash; Spring 2025, Fall 2025
-- **Econometrics Lab**, Boston College &mdash; Spring 2024, Fall 2024
-- **Statistics Lab**, Boston College &mdash; Spring 2026
+
+**Principles of Economics**, Boston College  
+Spring 2025 and Fall 2025
+
+**Econometrics Lab**, Boston College  
+Spring 2024 and Fall 2024
+
+**Statistics Lab**, Boston College  
+Spring 2026
