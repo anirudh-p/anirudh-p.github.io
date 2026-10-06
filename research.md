@@ -24,6 +24,5 @@ This project studies how state and federal subsidies shape pricing, competition,
 **Local Spillovers in Electric School Bus Adoption**  
 This project studies whether adoption of Electric School Buses in nearby districts influences subsequent local adoption patterns, with a focus on spatial spillovers, policy exposure, and technology diffusion.
 
-### Early-Stage Project
 **Environmental and Health Benefits of Electric School Bus Adoption**  
 This project studies the environmental and health benefits of Electric School Bus adoption, with particular attention to improvements in local air quality and potential downstream effects on communities.
