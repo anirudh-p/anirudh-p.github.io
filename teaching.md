@@ -12,9 +12,9 @@ title: Teaching
 
 # Teaching
 
-My teaching at Boston College includes serving as an instructor for Game Theory and as a teaching assistant for courses in introductory economics, econometrics, and statistics.
+My teaching at Boston College includes serving as a Teaching Fellow for Game Theory and as a teaching assistant for courses in introductory economics, econometrics, and statistics.
 
-## Instructor
+## Teaching Fellow
 
 **Game Theory**, Boston College  
 Summer 2025, Summer 2026, and Fall 2026
