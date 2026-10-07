@@ -12,4 +12,4 @@ title: CV
 
 # CV
 
-My CV is currently being updated and will be available here soon.
+[Download my CV (PDF)]({{ '/assets/cv.pdf' | relative_url }})

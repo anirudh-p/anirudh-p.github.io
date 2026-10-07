@@ -16,11 +16,12 @@ My research lies at the intersection of industrial organization, environmental a
 
 ## Work in Progress
 
-**Industrial Policy, Learning-by-Doing, and Dynamic Competition in the Electric School Bus Market**  
+**Subsidies, Learning-by-Doing, and Dynamic Competition in the Electric School Bus Market**  
 This project studies how subsidies for electric school buses interact with firm-specific learning-by-doing and dynamic competition. It develops a dynamic oligopoly model to distinguish technological cost reductions from firms' strategic incentives to build experience, and uses the model to evaluate effects on adoption, market structure, and welfare.
 
-**Local Spillovers in Electric School Bus Adoption**  
+**Peer Effects in Electric School Bus Adoption**  
+*Evidence from the Clean School Bus Program Lottery*  
 This project examines whether adoption by nearby school districts affects subsequent adoption decisions. It studies the geographic diffusion of electric school buses, with particular attention to separating local spillovers from shared exposure to policy and market conditions.
 
-**Environmental and Health Benefits of Electric School Bus Adoption**  
+**Environmental and Health Benefits of Electric School Bus Adoption** *(with Edson Severnini)*  
 This project studies the environmental and health consequences of replacing conventional school buses with electric alternatives. It focuses on how changes in local air pollution may affect students and surrounding communities.
